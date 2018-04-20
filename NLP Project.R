@@ -4,10 +4,10 @@
 library(qdap)
 library(tm)
 # Change the next four lines based on your own consumer_key, consume_secret, access_token, and access_secret. 
-consumer_key <- "YGKduXP7A8Ay0zE18HlwvNqYS"
-consumer_secret <- "ASODPcEFHLNOYRzYMU0925vkIj7HmtHNhjuUjOD6qGcfA3l2yX"
-access_token <- "875725677290561537-I6DkiB6wu4tDuR8akjA5Szb5os7NGwW"
-access_secret <- "gkMdXz7RHLaVSW3OPGTDNrX7qT14gnJdQpHxv7mnllHHa"
+consumer_key <- "my_consumer_key"
+consumer_secret <- "my_consumer_secret"
+access_token <- "my_access_token"
+access_secret <- "my_secret"
 
 
 setup_twitter_oauth(consumer_key, consumer_secret, access_token, access_secret)
