@@ -16,7 +16,7 @@ Assignment for basics of natural language processing.
 # TF-IDF Word Cloud
 ![rplot04](https://user-images.githubusercontent.com/32109174/39056347-723f0bae-4484-11e8-9402-d89fdd9ae894.png)
 
-# Barplot of Tweet Polarity Scores Across Time.
+# Barplot of Tweet Polarity Scores Across Time
 ![rplot05](https://user-images.githubusercontent.com/32109174/39056348-7249f42e-4484-11e8-9128-7a834d2a47cd.png)
 
 # Smooth Plot of Polarity Trend
